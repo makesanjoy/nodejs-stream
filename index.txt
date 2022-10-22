@@ -1,21 +1,8 @@
 
-Some of the commonly used events are-
-1. data - This event is fired when there is data available to read
-2. end  - This event is fired when there is no more data to read.
-3. error - This event is fired when there is any error on receiving or writing data
-4. finish -The ‘finish’ event in a Writable Stream is emitted after the Calling of writable.end() method when all the data is being flushed to the hidden system.g
-
 
 Some of the commonly used events are-
 1. data - This event is fired when there is data available to read
 2. end  - This event is fired when there is no more data to read.
 3. error - This event is fired when there is any error on receiving or writing data
-4. finish -The ‘finish’ event in a Writable Stream is emitted after the Calling of writable.end() method when all the data is being flushed to the hidden system.g
-
-
-
-Some of the commonly used events are-
-1. data - This event is fired when there is data available to read
-2. end  - This event is fired when there is no more data to read.
-3. error - This event is fired when there is any error on receiving or writing data
-4. finish -The ‘finish’ event in a Writable Stream is emitted after the Calling of writable.end() method when all the data is being flushed to the hidden system.g
+4. finish -The â€˜finishâ€™ event in a Writable Stream is 
+advadvnklansdvl
