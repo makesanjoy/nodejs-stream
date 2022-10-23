@@ -6,3 +6,9 @@ Some of the commonly used events are-
 3. error - This event is fired when there is any error on receiving or writing data
 4. finish -The â€˜finishâ€™ event in a Writable Stream is 
 advadvnklansdvl
+
+Some of the commonly used events are-
+1. data - This event is fired when there is data available to read
+2. end  - This event is fired when there is no more data to read.
+3. error - This event is fired when there is any error on receiving or writing data
+4. finish -The â€˜finishâ€™ event in a Writable Stream is 
